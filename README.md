@@ -2,6 +2,7 @@
 
 # classic-netflix
 Classic Netflix é um clone da página inicial da Netflix feito em HTML, CSS e JavaScript (JQuery) <br>
+Você pode conferir ele rodando <a href="https://giovannacollares.github.io/classic-netflix/">aqui</a>. <br>
 
 
 
